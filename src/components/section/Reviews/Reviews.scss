@@ -1,0 +1,88 @@
+.reviews{
+  &__container{}
+  &__title{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 51px;
+    color: #000000;
+    margin: 128px 0 50px 0;
+  }
+  &__row{
+    display: flex;
+    align-items: center;
+    column-gap: 32px;
+    &-selection{
+      display: flex;
+      align-items: center;
+    }
+    &-list{
+
+    }
+    &-comment{
+      font-family: Inter, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 30px;
+      color: #000000;
+      margin-bottom: 32px;
+      background: linear-gradient(180deg, #F5F5F5 61.47%, rgba(245, 245, 245, 0) 97.2%);
+      padding: 33px 40px;
+    }
+    &-massage{
+      display: flex;
+      column-gap: 16px;
+    }
+    &-avatar{
+      width: 50px;
+      height: 50px;
+      z-index: 1;
+    }
+    &-vk{
+      width: 50px;
+      height: 50px;
+      margin-left: -10px;
+    }
+    &-block{
+      &_name{
+        font-family: Inter, sans-serif;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 22px;
+        letter-spacing: 0.01em;
+        color: #000000;
+        margin-bottom: 1px;
+      }
+      &_university{
+        font-family: Inter, sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 13px;
+        line-height: 22px;
+        color: #787878;
+        margin-bottom: 10px;
+      }
+      &_btn{
+        font-family: Inter, sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 11px;
+        line-height: 22px;
+        letter-spacing: 0.17em;
+        text-transform: uppercase;
+        color: #000000;
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        border-radius: 4px;
+        padding: 4px 12px;
+        background-color: transparent;
+        cursor: pointer;
+        &:hover{
+          color: #4A4A4A;
+        }
+      }
+    }
+  }
+}

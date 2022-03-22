@@ -1,0 +1,52 @@
+.diploma {
+  margin-top: 128px;
+}
+.diploma__container {
+  display: flex;
+  justify-content: space-between;
+}
+.diploma__title {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 51px;
+  color: #000000;
+  margin-bottom: 27px;
+}
+.diploma__subtitle {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 40px;
+  color: #000000;
+  margin-bottom: 46px;
+}
+.diploma__row {
+  display: flex;
+  column-gap: 113px;
+}
+.diploma__row-list {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 30px;
+  color: #A8A8A8;
+  border-bottom: 3px solid transparent;
+  padding-bottom: 15px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+.diploma__row-list:hover {
+  color: #000000;
+  border-bottom: 3px solid black;
+  transition: 0.2s;
+}
+.diploma__img {
+  width: 488px;
+  height: 344px;
+}
+
+/*# sourceMappingURL=Diploma.css.map */

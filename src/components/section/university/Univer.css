@@ -1,0 +1,19 @@
+.univer {
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+}
+.univer__container {
+  justify-content: center;
+  display: flex;
+  column-gap: 20px;
+  padding: 56px 0;
+  border-bottom: 2px solid #DFDFDE80;
+  border-top: 2px solid #DFDFDE80;
+}
+.univer img {
+  width: 140px;
+  height: 57px;
+}
+
+/*# sourceMappingURL=Univer.css.map */

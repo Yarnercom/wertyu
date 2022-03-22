@@ -1,0 +1,54 @@
+.diploma{
+  margin-top: 128px;
+  &__container{
+    display: flex;
+    justify-content: space-between;
+  }
+  &__left{
+
+  }
+  &__right{}
+  &__title{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 51px;
+    color: #000000;
+    margin-bottom: 27px;
+  }
+  &__subtitle{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 46px;
+  }
+  &__row{
+    display: flex;
+    column-gap: 113px;
+    &-list{
+      font-family: Inter, sans-serif;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 26px;
+      line-height: 30px;
+      color: #A8A8A8;
+      border-bottom: 3px solid transparent;
+      padding-bottom: 15px;
+      cursor: pointer;
+      transition: .2s;
+      &:hover{
+        color: #000000;
+        border-bottom: 3px solid black;
+        transition: .2s;
+      }
+    }
+  }
+  &__img{
+    width: 488px;
+    height: 344px;
+  }
+}

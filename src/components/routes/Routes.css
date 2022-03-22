@@ -1,0 +1,50 @@
+.ape__direction {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.ape__direction-content {
+  display: flex;
+  column-gap: 36.19px;
+  align-items: center;
+}
+.ape__direction-title {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 32px;
+  color: #000000;
+}
+.ape__direction-subtitle {
+  font-family: Inter, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 28px;
+  letter-spacing: 0.01em;
+  color: #000000;
+}
+
+.enroll__first {
+  background: url("./../../assets/background/enroll.png");
+  width: 800px;
+  height: 496px;
+  padding: 40px 0 0 40px;
+  position: relative;
+}
+.enroll__title {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 55px;
+  line-height: 60px;
+  color: #000000;
+}
+.enroll__container {
+  display: flex;
+  column-gap: 32px;
+}
+
+/*# sourceMappingURL=Routes.css.map */

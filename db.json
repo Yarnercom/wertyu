@@ -1,0 +1,268 @@
+{
+  "universities": {
+    "MoscowInternationalUniversity": {
+      "id": 8,
+      "title": "Московский Международный  Университет",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 2,
+      "direction": "направления"
+    },
+    "MoscowInternationalAcademy": {
+      "id": 9,
+      "title": "Московская международная  академия",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 3,
+      "direction": "направления"
+    },
+    "MoscowEconomicInstitute": {
+      "id": 10,
+      "title": "Московский экономический институт",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 3,
+      "direction": "направления"
+    },
+    "KurskInstituteOfManagementEconomicsAndBusiness": {
+      "id": 11,
+      "title": "Курский институт  менеджмента, экономики и бизнеса",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 2,
+      "direction": "направления"
+    },
+    "MoscowUniversityNamedAfterS.Yu.Witte": {
+      "id": 12,
+      "title": "Московский университет им.С.Ю. Витте",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 3,
+      "direction": "направления"
+    },
+    "TulaStateUniversity": {
+      "id": 13,
+      "title": "Тульский государственный университет",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 2,
+      "direction": "направления"
+    }
+  },
+  "mainTitle": {
+    "HowToProceed-StepByStepInstructions": {
+      "id": 14,
+      "title": "Как поступить — пошаговая инструкция",
+      "image": ""
+    }
+  },
+  "routeContent1": {
+    "EducationalPsychologist": {
+      "title": "Прямо сейчас в Санкт-Петербурге ищут:",
+      "link": "Данные взяты с портала Rabota.ru и являются ознакомительными",
+      "subtitle": "Педагог-психолог",
+      "fromPrice": 40000,
+      "beforePrice": 50000,
+      "symbol": "ЧОУ ДО Центр развития Егоза"
+    },
+    "PublicHelper": {
+      "subtitle": "Общественный помощник",
+      "fromPrice": 30000,
+      "beforePrice": 0,
+      "symbol": "ГДОУ №112 Адмиралтейского района"
+    },
+    "MarketerOfMedicalMassageStudios": {
+      "subtitle": "Маркетолог студий медицинского массажа",
+      "fromPrice": 40000,
+      "beforePrice": 50000,
+      "symbol": "ЧОУ ДО Центр развития Егоза"
+    }
+  },
+  "college": {
+    "CollegeOfInnovativeTechnologiesAndServiceGalaktikan": {
+      "id": 15,
+      "title": "Колледж Инновационных Технологий и Сервиса  «Галактика»",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 2,
+      "direction": "направления"
+    },
+    "MoscowInternationalCollege\n": {
+      "id": 16,
+      "title": "Московский Международный  Колледж",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 2,
+      "direction": "направления"
+    },
+    "InternationalOpenCollege": {
+      "id": 16,
+      "title": "Международный  Открытый  колледж",
+      "price": 12500,
+      "onlineProtection": true,
+      "colDirection": 2,
+      "direction": "направления"
+    }
+  },
+  "question": [],
+  "partner": [
+    {
+      "name": "",
+      "tel": "",
+      "email": "",
+      "id": 1
+    }
+  ],
+  "review": [],
+  "all": [
+    {
+      "id": 0,
+      "title": "Экономика",
+      "price": 9500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "magistratura": "Магистратура",
+      "installmentPlan": "Рассрочка"
+    },
+    {
+      "id": 1,
+      "title": "Юриспруденция",
+      "price": 10500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "magistratura": "Магистратура",
+      "OnlineProtection": "Онлайн-защита"
+    },
+    {
+      "id": 2,
+      "title": "Журналистика",
+      "price": 9500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация"
+    },
+    {
+      "id": 3,
+      "title": "Медицинская оптика",
+      "price": 11500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "bacalawr": "Бакалавриат",
+      "installmentPlan": "Рассрочка"
+    },
+    {
+      "id": 4,
+      "title": "Торговое дело",
+      "price": 12500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "bacalawr": "Бакалавриат",
+      "transfer": "Можно перевестись",
+      "installmentPlan": "Рассрочка",
+      "OnlineProtection": "Онлайн-защита"
+    },
+    {
+      "id": 5,
+      "title": "Пожарная безопасность",
+      "price": 12500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "bacalawr": "бакалавриат"
+    },
+    {
+      "id": 6,
+      "title": "Земельно-имущественные отношения",
+      "price": 11500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "transfer": "Можно перевестись"
+    },
+    {
+      "id": 7,
+      "title": "Гостиничное дело",
+      "price": 11500,
+      "magistracy": 13000,
+      "undergraduate": 12000,
+      "specialty": 11000,
+      "onlineProtection": true,
+      "consultation": "консультация",
+      "transfer": "Можно перевестись"
+    }
+  ],
+  "tourism": [
+    {
+      "id": 0,
+      "title": "Туризм",
+      "price": 12500,
+      "date": "2,5",
+      "btn": "консультация"
+    }
+  ],
+  "Jurisprudence": [
+    {
+      "id": 1,
+      "title": "Юриспруденция",
+      "price": 12500,
+      "date": "2,5",
+      "btn": "консультация",
+      "online": "100% онлайн"
+    }
+  ],
+  "Economy": [
+    {
+      "id": 2,
+      "title": "Экономика",
+      "price": 12500,
+      "date": "2,5",
+      "btn": "консультация",
+      "online": "100% онлайн"
+    }
+  ],
+  "Journalism": [
+    {
+      "id": 3,
+      "title": "Журналистика",
+      "price": 12500,
+      "date": "2,5",
+      "btn": "консультация"
+    }
+  ],
+  "MedicalOptics": [
+    {
+      "id": 4,
+      "title": "Медицинская оптика",
+      "price": 12500,
+      "date": "2,5",
+      "btn": "консультация"
+    }
+  ],
+  "AdvertisingAndPublicRelations": [
+    {
+      "id": 5,
+      "title": "Реклама и связи с общественностью",
+      "price": 12500,
+      "date": "2,5",
+      "btn": "консультация"
+    }
+  ]
+}

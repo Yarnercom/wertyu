@@ -1,0 +1,56 @@
+.edMob{
+  &__container{
+    display: flex;
+    margin-top: 50px;
+   column-gap: 40px;
+  }
+  &__container2{
+    margin-top: 30px;
+    display: flex;
+    column-gap: 40px;
+  }
+  &__left{
+
+  }
+  &__right{
+    margin-bottom: 30px;
+  }
+  &__title{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 51px;
+    color: #000000;
+    margin-bottom: 21px;
+  }
+  &__subtitle{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 40px;
+    color: #000000;
+    margin-bottom: 33px;
+  }
+  &__btn{
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    border: 1px solid #DFDFDE;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: transparent;
+    padding: 13px 59px;
+    transition: .2s;
+    &:hover{
+      color: #787878;
+      transition: .2s;
+    }
+  }
+}
